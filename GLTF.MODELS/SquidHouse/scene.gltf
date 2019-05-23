@@ -772,36 +772,36 @@
   "buffers": [
     {
       "byteLength": 153960,
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/blob/master/scene.bin?raw=true"
+      "uri": "GLTF.MODELS/SquidHouse/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/raw/master/07_-_Default_metallicRoughness.png"
+      "uri": "GLTF.MODELS/SquidHouse/textures/07_-_Default_metallicRoughness.png"
     },
     {
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/raw/master/13_-_Default_baseColor.jpeg"
+      "uri": "GLTF.MODELS/SquidHouse/textures/13_-_Default_baseColor.jpeg"
     },
     {
-      "uri": "https://raw.githubusercontent.com/Xeldo2000/spongebobsquarepants/master/14_-_Default_baseColor.png.png"
+      "uri": "GLTF.MODELS/SquidHouse/textures/14_-_Default_baseColor.png.png"
     },
     {
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/raw/master/14_-_Default_normal.png"
+      "uri": "GLTF.MODELS/SquidHouse/textures/14_-_Default_normal.png"
     },
     {
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/raw/master/03_-_Default_baseColor.jpeg
+      "uri": "GLTF.MODELS/SquidHouse/textures/03_-_Default_baseColor.jpeg"
     },
     {
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/raw/master/03_-_Default_normal.png"
+      "uri": "GLTF.MODELS/SquidHouse/textures/03_-_Default_normal.png"
     },
     {
-      "uri": "https://raw.githubusercontent.com/Xeldo2000/spongebobsquarepants/master/09_-_Default_baseColor.jpeg"
+      "uri": "GLTF.MODELS/SquidHouse/textures/09_-_Default_baseColor.jpeg"
     },
     {
-      "uri": "https://github.com/Xeldo2000/spongebobsquarepants/raw/master/09_-_Default_normal.png"
+      "uri": "GLTF.MODELS/SquidHouse/textures/09_-_Default_normal.png"
     },
     {
-      "uri": "https://raw.githubusercontent.com/Xeldo2000/spongebobsquarepants/master/19_-_Default_baseColor.jpeg"
+      "uri": "GLTF.MODELS/SquidHouse/textures/19_-_Default_baseColor.jpeg"
     }
   ],
   "materials": [
