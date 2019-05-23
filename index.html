@@ -1,16 +1,14 @@
-
+<!doctype html>
 <html>
   <head>
-<script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
+    <script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
   </head>
-  </head>
-  <body>
- <a-scene>
+  <body
+    <a-scene>
   <a-assets>
-    <a-asset-item id="tree" src="/path/to/tree.gltf"></a-asset-item>
+    <a-asset-item id="house" src="GLTF.MODELS/SquidHouse/scene.gltf"></a-asset-item>
   </a-assets>
-
-  <a-entity gltf-model="#tree"></a-entity>
-</a-scene> 
+  <a-entity gltf-model="#house" modify-materials></a-entity>
+</a-scene>
   </body>
 </html>
