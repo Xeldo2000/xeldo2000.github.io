@@ -1,10 +1,16 @@
 
 <html>
   <head>
-    
+<script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
+  </head>
   </head>
   <body>
-    <img src="https://github.com/Xeldo2000/xeldo2000.github.io/raw/master/GLTF.MODELS/SquidHouse/textures/03_-_Default_baseColor.jpeg">
-    
+ <a-scene>
+  <a-assets>
+    <a-asset-item id="tree" src="/path/to/tree.gltf"></a-asset-item>
+  </a-assets>
+
+  <a-entity gltf-model="#tree"></a-entity>
+</a-scene> 
   </body>
 </html>
