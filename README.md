@@ -4,6 +4,8 @@
 That is my website for AFRAME
 IF you want me to explain what everything is
 
+
+
 # GLTF FILES
 
 So what these are are the files to controle what the model is the size its fetures and where the textures are comign from
