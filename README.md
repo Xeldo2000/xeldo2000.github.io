@@ -1,6 +1,6 @@
 # xeldo2000.github.io
 
-# # SO IF ARE NEW TO AFRAME YOU NEED TO READ EVERYTHIGN FOR A GOOD EXPLAINATION, it may be long but it really helps
+# 
 That is my website for AFRAME
 IF you want me to explain what everything is
 
